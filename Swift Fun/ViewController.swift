@@ -3,8 +3,8 @@
 //  Swift Fun
 //
 //  Created by Mac on 3/24/18.
-//  Copyright © 2018 Mac. All rights reserved.
-//
+//  Copyright © 2018 Mac. All rights reserved..
+// Hello I like cheese
 
 import UIKit
 
@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         
         buttonCount = buttonCount + 1
         
-        print(buttonCount)
+       
         
         if buttonCount >= 10 {
         view.backgroundColor = UIColor.red
